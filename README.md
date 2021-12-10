@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 <img src="./assets/logo.svg" alt="logo">
 
@@ -12,9 +12,9 @@
 
 #
 
-### Esse projeto foi criado durando a 11ª edição da Semana Omnistack promovida pela <a href="https://www.rocketseat.com.br/">Rocketseat.</a>
+</div>
 
-</center>
+### Esse projeto foi criado durando a 11ª edição da Semana Omnistack promovida pela <a href="https://www.rocketseat.com.br/">Rocketseat.</a>
 
 # Para rodar a aplicação
 
